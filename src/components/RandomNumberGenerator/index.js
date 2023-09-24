@@ -35,3 +35,5 @@ class RandomNumberGenerator extends Component {
 }
 
 export default RandomNumberGenerator
+
+// this all mean to get know that
